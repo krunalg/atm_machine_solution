@@ -1,9 +1,9 @@
 ATM Machine Problem
-====================
-
-ATM Machine (Time: 30 min)
-Language: Any of C, C++, PHP
+=================================================
+Language: PHP
+====
 You have to write logic to withdraw money from ATM Machine. Consider a hypothetical ATM machine which gives you notes of 10, 20, 50, 100, 500 & 1000 in denomination. If I enter 5,550 Rs. It should give me 5 notes of 1000, 1 note of 500 and 1 note of 50. ATM machines cannot store coins. So, if input amount is something like 1978 then machine should print “Invalid Amount”.
+====
 Case 1:
 Input: 2340
 Output:
@@ -29,4 +29,3 @@ Evaluation Criteria:
 2. Time taken to develop
 3. Efficiency of logic (Memory and Time)
 4. Coding structure(Use Classes, Associative arrays provided in PHP 5.3)
-Best of luck and Happy Coding!!!
