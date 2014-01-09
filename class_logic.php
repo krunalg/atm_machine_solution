@@ -1,5 +1,9 @@
 <?php
-
+/**
+ * Main Class Logic For ATM Machine Solution
+ * @author krunal
+ *
+ */
 class logic {
 
     public $_denominations_array = array(1000, 500, 100, 50, 20, 10);
