@@ -2,7 +2,7 @@ ATM Machine Problem
 =================================================
 Language: PHP
 
-You have to write logic to withdraw money from ATM Machine. Consider a hypothetical ATM machine which gives you notes of 10, 20, 50, 100, 500 & 1000 in denomination. If I enter 5,550 Rs. It should give me 5 notes of 1000, 1 note of 500 and 1 note of 50. ATM machines cannot store coins. So, if input amount is something like 1978 then machine should print “Invalid Amount”.
+Withdraw money from ATM Machine. Consider a hypothetical ATM machine which gives you notes of 10, 20, 50, 100, 500 & 1000 in denomination. If I enter 5,550 Rs. It should give me 5 notes of 1000, 1 note of 500 and 1 note of 50. ATM machines cannot store coins. So, if input amount is something like 1978 then machine should print “Invalid Amount”.
 
 Case 1:
 
